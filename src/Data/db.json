@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": "mb1224453",
+            "thumb": "https://a.imagem.app/oNVBav.png",
+            "name": "La Cuma",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": 29.90
+        },
+        {
+            "id": "mb1224454",
+            "thumb": "https://a.imagem.app/oNVHzT.png",
+            "name": "La Menta",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": 25.50
+        },
+        {
+            "id": "mb1224455",
+            "thumb": "https://a.imagem.app/oNVSl3.png",
+            "name": "La cuma",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": 26.00
+        },
+        {
+            "id": "mb1224456",
+            "thumb": "https://a.imagem.app/oNVhvZ.png",
+            "name": "La Toca",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "price": 23.80
+        }
+    ]
+}

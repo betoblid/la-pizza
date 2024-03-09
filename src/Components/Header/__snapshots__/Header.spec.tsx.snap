@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> criar um snapshot 1`] = `
+<div>
+  <header
+    class="bg-banner bg-center bg-no-repeat bg-cover py-20"
+  >
+    <img
+      alt="Logo pizzaria"
+      class="sm:w-96 w-1/2 mx-auto"
+      src="logo.png"
+    />
+  </header>
+</div>
+`;

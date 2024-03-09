@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> cirar um snapshot 1`] = `
+<div>
+  <footer
+    class="bg-black py-2 text-center text-white"
+  >
+    <p
+      class="font-bold text-sm"
+    >
+      Desenvolvido por
+      <a
+        class="visited:text-red-300"
+        href="https://www.linkedin.com/in/herbertlsouza"
+        rel="noreferrer"
+        target="_blank"
+      >
+        'Herbert Souza"
+      </a>
+    </p>
+  </footer>
+</div>
+`;
